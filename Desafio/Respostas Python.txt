@@ -1,0 +1,15 @@
+1- Qual a sintaxe para importação de bibliotecas no python?
+
+Resposta: Utilizamos a Função ( import ) para importar bilibotecas na linguagem python.
+
+
+2- Qual biblioteca do Python permite a visualização de dados em gráficos simples?
+
+
+Resposta: A biblioteca matplotlib.
+
+
+3- Qual biblioteca do Python gera um DataFrame como sua abstração principal?
+
+
+Resposta: A biblioteca Pandas.
